@@ -1,1 +1,1 @@
-# StringGeneticalgorithm
+# StringGeneticAlgorithm
